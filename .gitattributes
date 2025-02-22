@@ -1,2 +1,0 @@
-KDN_N01.file filter=lfs diff=lfs merge=lfs -text
-project-shootinggame.zip filter=lfs diff=lfs merge=lfs -text
